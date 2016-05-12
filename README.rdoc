@@ -1,28 +1,11 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A new take on the prior threadly website repository I uploaded. This one uses Ruby on Rails for data persistence.
 
-Things you may want to cover:
+Rails version used is 4.2.5.1.
 
-* Ruby version
+"Standard" system dependencies (if any) should be all that's required to get this to run. I ported Google font + Bootstrap CDN links, as well as styling from the prior website CSS file.
 
-* System dependencies
+== ...oh wait. You haven't seen the previous app repository?
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+threadly is a basic web app that lets you share your thoughts on a website. Just write what you want in the "share your thoughts" section, then click the post button. That's it.
